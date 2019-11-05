@@ -8,8 +8,7 @@ Here are some bike compontents:
 Here are some more:
 * Rear derailleur
 * Front derailleur
-* Chain
-]
+* My Chai]n
 
 change after mistake
 * tyres
