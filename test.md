@@ -1,6 +1,6 @@
 # Bikes #
 
-Here are some bike compontents:
+Here are some dog compontents:
 * Handlebars
 * Seat
 * tyres
