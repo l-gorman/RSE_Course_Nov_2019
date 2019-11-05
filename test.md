@@ -10,7 +10,6 @@ Here are some more:
 * Front derailleur
 * Chain
 ]
-zxcfvgvc vghbv vbgvbghybv vbhj
 
 change after mistake
 * tyres
